@@ -1,0 +1,29 @@
+{
+  "name": "htmlStarter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jopfre",
+  "license": "",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-concat": "latest",
+    "gulp-jshint": "latest",
+    "gulp-pixrem": "latest",
+    "gulp-plumber": "latest",
+    "gulp-postcss": "^6.3.0",
+    "gulp-rename": "latest",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "latest",
+    "gulp-wait": "0.0.2",
+    "cssnano": "latest",
+    "jshint": "latest",
+    "autoprefixer": "latest"
+  }
+}
